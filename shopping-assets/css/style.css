@@ -7979,7 +7979,8 @@ button.cartbox__item__remove {
       border-radius: 0; }
 
 .cartbox__item__thumb a img {
-  max-width: 100%; }
+  width: 70px;
+  height: 40px; }
 
 .cartbox__buttons a {
   display: block;
