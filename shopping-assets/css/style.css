@@ -8819,3 +8819,6 @@ input[type="submit"] {
     padding: 0; } }
 
 /*# sourceMappingURL=style.css.map */
+.food__list__inner {
+  width: 100%;
+}
