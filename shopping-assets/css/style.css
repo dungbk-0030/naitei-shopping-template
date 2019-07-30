@@ -7379,7 +7379,8 @@ div.slide__pizza img {
   height: 45px;
   line-height: 45px;
   position: absolute;
-  right: 61%;
+  /* right: 61%; */
+  margin-left: 96px;
   text-align: center;
   width: 40px; }
 
