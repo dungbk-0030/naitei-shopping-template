@@ -1,0 +1,13 @@
+{
+  "name": "naitei-shopping",
+  "homepage": "https://github.com/dungbk-0030/naitei-shopping-template",
+  "_release": "af5060df70",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "af5060df70bd20a28071c34c58cde951edd8b646"
+  },
+  "_source": "https://github.com/dungbk-0030/naitei-shopping-template.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/dungbk-0030/naitei-shopping-template.git"
+}
