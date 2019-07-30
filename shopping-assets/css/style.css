@@ -7447,7 +7447,7 @@ div.slide__pizza img {
       width: 100%; }
   .single__review .review__details {
     padding-left: 30px;
-    flex-basis: 77%; }
+    flex-basis: 100%; }
     .single__review .review__details h3 {
       color: #333333;
       font-family: Open Sans;
